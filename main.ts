@@ -1,11 +1,11 @@
 radio.onReceivedNumber(function (receivedNumber) {
     if (receivedNumber == 4) {
-    	
+        basic.showIcon(IconNames.Happy)
+        music.stopMelody(MelodyStopOptions.All)
     }
 })
 input.onButtonPressed(Button.A, function () {
-    basic.showIcon(IconNames.Happy)
-    music.stopMelody(MelodyStopOptions.All)
+	
 })
 input.onButtonPressed(Button.B, function () {
 	
