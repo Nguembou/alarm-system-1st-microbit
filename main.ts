@@ -24,6 +24,5 @@ basic.forever(function () {
             . # # # .
             `)
         music.startMelody(music.builtInMelody(Melodies.BaDing), MelodyOptions.Forever)
-        basic.pause(100)
     }
 })

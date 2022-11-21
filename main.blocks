@@ -4,4 +4,4 @@
         # . # . # 
         # . . # # 
         . # # # .
-        `</field><next><block type="device_start_melody" id="+68PY1xktj+*d=mmeubi"><field name="options">MelodyOptions.Forever</field><value name="melody"><shadow type="device_builtin_melody" id="iH(]iEzZ!43qA`hJU[#0"><field name="melody">Melodies.BaDing</field></shadow></value><next><block type="device_pause" id="d[~{NIrzHNmE9I5vW:vT"><value name="pause"><shadow type="timePicker" id="e:*%!gFY)j9catqzLb8]"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block></statement></block></xml>
+        `</field><next><block type="device_start_melody" id="+68PY1xktj+*d=mmeubi"><field name="options">MelodyOptions.Forever</field><value name="melody"><shadow type="device_builtin_melody" id="iH(]iEzZ!43qA`hJU[#0"><field name="melody">Melodies.BaDing</field></shadow></value></block></next></block></next></block></statement></block></statement></block></xml>
