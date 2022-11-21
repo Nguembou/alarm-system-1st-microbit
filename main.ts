@@ -5,7 +5,8 @@ radio.onReceivedNumber(function (receivedNumber) {
     }
 })
 input.onButtonPressed(Button.A, function () {
-	
+    basic.showIcon(IconNames.Happy)
+    music.stopMelody(MelodyStopOptions.All)
 })
 input.onButtonPressed(Button.B, function () {
 	
